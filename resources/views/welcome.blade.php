@@ -6,6 +6,7 @@
     <title>Hello</title>
 </head>
 <body>
+    <h1>Hello</h1>
     <table border="1">
         <tr>
             <th>Name</th>
